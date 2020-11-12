@@ -11,4 +11,4 @@
 * [Ensemble Notebook Live on Kaggle](https://www.kaggle.com/redwankarimsony/jigsawmultilingualtoxiccomments-ensemble)
 
 # Final Results: 
-330 th out of 1621 teams (Top 21%)
+[330 th out of 1621 teams (Top 21% on Public Leaderboard)](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/leaderboard)
